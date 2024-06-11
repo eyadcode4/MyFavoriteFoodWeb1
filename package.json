@@ -1,0 +1,22 @@
+{
+  "name": "myfavoritefoodweb",
+  "version": "1.0.0",
+  "description": "myfood",
+  "main": "app.js",
+  "scripts": {
+    "test": "food"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyadcode4/MyFavoriteFoodWeb.git"
+  },
+  "keywords": [
+    "myfood"
+  ],
+  "author": "eyad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyadcode4/MyFavoriteFoodWeb/issues"
+  },
+  "homepage": "https://github.com/eyadcode4/MyFavoriteFoodWeb#readme"
+}
